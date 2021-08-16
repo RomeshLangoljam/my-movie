@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1050417030299",
+    "project_id": "signin-a29fc",
+    "storage_bucket": "signin-a29fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050417030299:android:fc98af22ec95c902c9923e",
+        "android_client_info": {
+          "package_name": "com.example.movies_record"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050417030299-onc6uj8rr6d8jknb9c2d0t9ch8glbje0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANPP0DiXApihvgj6Vn2GMapmx3CKGA8EY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050417030299-onc6uj8rr6d8jknb9c2d0t9ch8glbje0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
